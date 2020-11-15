@@ -61,3 +61,10 @@ This repository contains solutions of Python problems from HackerRank and some t
   The hash() method returns the hash value of an object if it has one.  
 
 ---
+
++ **To input a complex number**  
+  complex_num = complex(input())
+  
+---
+
+
