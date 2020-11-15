@@ -15,11 +15,16 @@ This repository contains solutions of Python problems from HackerRank and some t
   4 / 3 = 1  
   4 // 3 = 1.33333333333  
   
-  
 ---
 
 + **To convert a space separated input into list**  
   arr = list(map(int, input().split()))  
+  
+---
+
++ **To iterate key, values of dictionary**  
+  dict_obj = {}  
+  for key,values in dict_obj.items():  
   
 ---
 
