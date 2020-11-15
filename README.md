@@ -67,4 +67,15 @@ This repository contains solutions of Python problems from HackerRank and some t
   
 ---
 
++ **To get ASCII Code from a character**  
+  ord() is used  
+  
+---
+
++ **To get character from ASCII Code**  
+  chr() is used  
+  [Complete mapping of ASCII Table](https://www.rapidtables.com/code/text/ascii-table.html)  
+  
+---
+
 
