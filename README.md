@@ -28,4 +28,9 @@ This repository contains solutions of Python problems from HackerRank and some t
   
 ---
 
++ **To get dictionary keys as list**  
+  key_list = dict_obj.keys()
+  
+---
+
 
