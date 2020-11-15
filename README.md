@@ -40,7 +40,7 @@ This repository contains solutions of Python problems from HackerRank and some t
 
 + **To print float numbers upto specified decimal places**  
   print("{:.4f}".format(22/7))  
-  ***->***3.1429   
+  **->** 3.1429   
   
 ---
 
