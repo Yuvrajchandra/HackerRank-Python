@@ -18,3 +18,9 @@ This repository contains solutions of Python problems from HackerRank and some t
   
 ---
 
++ **To convert a space separated input into list**  
+  arr = list(map(int, input().split()))  
+  
+---
+
+
