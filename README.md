@@ -8,5 +8,13 @@ This repository contains solutions of Python problems from HackerRank and some t
   
 ---
 
-
++ ***Python Division***
+  /  : It is used for integer division  
+  // : It is used for float division  
+  For eg-  
+  4 / 3 = 1  
+  4 // 3 = 1.33333333333  
+  
+  
+---
 
