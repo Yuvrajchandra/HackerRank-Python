@@ -33,4 +33,9 @@ This repository contains solutions of Python problems from HackerRank and some t
   
 ---
 
++ **To get dictionary values as list**  
+  values_list = dict_obj.values()
+  
+---
+
 
