@@ -117,5 +117,15 @@ This repository contains solutions of Python problems from HackerRank and some t
   
 ---
 
++ **Python String Validators**  
+  1. str.isalnum() - This method checks if all the characters of a string are alphanumeric (a-z, A-Z and 0-9).  
+  2. str.isalpha() - This method checks if all the characters of a string are alphabetical (a-z and A-Z).  
+  3. str.isdigit() - This method checks if all the characters of a string are digits (0-9).  
+  4. str.islower() - This method checks if all the characters of a string are lowercase characters (a-z).  
+  5. str.isupper() - This method checks if all the characters of a string are uppercase characters (A-Z).  
+  
+---
+  
+
 
 
