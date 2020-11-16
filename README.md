@@ -93,5 +93,19 @@ This repository contains solutions of Python problems from HackerRank and some t
   
 ---
 
-
++ **Python String join()**  
+  The join() method takes all items in an iterable and joins them into one string.  
+  A string must be specified as the separator.  
+  ```
+  string.join(iterable)   
+  ```
+  
+  ```
+  myTuple = ("John", "Peter", "Vicky")   
+  x = "#".join(myTuple)   
+  print(x)   
+  John#Peter#Vicky
+  ```
+  
+---
 
