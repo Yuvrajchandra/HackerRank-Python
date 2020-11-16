@@ -125,6 +125,25 @@ This repository contains solutions of Python problems from HackerRank and some t
   5. str.isupper() - This method checks if all the characters of a string are uppercase characters (A-Z).  
   
 ---
+
++ **any() function**  
+  The any() function returns True if any item in an iterable are true, otherwise it returns False.  
+  ```
+  myset = {0, 1, 0}   
+  x = any(myset)
+  >>> True
+  ```
+  
+  ```
+    print any(c.isalnum() for c in str)
+    print any(c.isalpha() for c in str)
+    print any(c.isdigit() for c in str)
+    print any(c.islower() for c in str)
+    print any(c.isupper() for c in str)
+  ```
+  
+---
+
   
 
 
