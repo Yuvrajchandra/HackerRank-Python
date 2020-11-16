@@ -109,3 +109,13 @@ This repository contains solutions of Python problems from HackerRank and some t
   
 ---
 
++ **startswith()**  
+  The startswith() method returns True if the string starts with the specified value, otherwise False.  
+  ```
+  string.startswith(value, start, end)   
+  ```
+  
+---
+
+
+
