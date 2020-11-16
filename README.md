@@ -78,4 +78,18 @@ This repository contains solutions of Python problems from HackerRank and some t
   
 ---
 
++ **Python Strings**  
+  1. swapcase() - The string swapcase() method converts all uppercase characters to lowercase and vice versa of the given string, and returns it.  
+  string = "gEEksFORgeeks"  
+  print(string.swapcase())   
+  GeeKSforGEEKS  
+  
+  2. isupper() - The isupper() methods returns “True” if all characters in the string are uppercase, Otherwise, It returns “False”.  
+  3. islower() - The islower() methods returns “True” if all characters in the string are lowercase, Otherwise, It returns “False”.  
+  4. lower() - The lower() methods returns the lowercased string from the given string.  
+  5. upper() - The upper() methods returns the uppercased string from the given string.   
+  
+---
+
+
 
